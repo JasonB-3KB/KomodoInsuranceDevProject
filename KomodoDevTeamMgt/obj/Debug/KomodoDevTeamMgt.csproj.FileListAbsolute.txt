@@ -1,0 +1,11 @@
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\obj\Debug\KomodoDevTeamMgt.csprojAssemblyReference.cache
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\obj\Debug\KomodoDevTeamMgt.csproj.CoreCompileInputs.cache
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\bin\Debug\KomodoDevTeamMgt.exe.config
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\bin\Debug\KomodoDevTeamMgt.exe
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\bin\Debug\KomodoDevTeamMgt.pdb
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\bin\Debug\KomodoProject.Repository.dll
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\bin\Debug\KomodoProject.Repository.pdb
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\bin\Debug\KomodoProject.Repository.dll.config
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\obj\Debug\KomodoDevTeamMgt.csproj.CopyComplete
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\obj\Debug\KomodoDevTeamMgt.exe
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoDevTeamMgt\obj\Debug\KomodoDevTeamMgt.pdb

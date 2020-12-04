@@ -1,0 +1,7 @@
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoProject.Repository\obj\Debug\KomodoProject_Repository.csprojAssemblyReference.cache
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoProject.Repository\obj\Debug\KomodoProject_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoProject.Repository\bin\Debug\KomodoProject.Repository.dll.config
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoProject.Repository\bin\Debug\KomodoProject.Repository.dll
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoProject.Repository\bin\Debug\KomodoProject.Repository.pdb
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoProject.Repository\obj\Debug\KomodoProject.Repository.dll
+C:\Users\Bagwill\Desktop\ElevenFiftyProjects\DotNetProjects\KomodoInsuranceDevProject\KomodoProject.Repository\obj\Debug\KomodoProject.Repository.pdb
