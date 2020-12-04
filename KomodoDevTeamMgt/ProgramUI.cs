@@ -10,12 +10,12 @@ namespace KomodoDevTeamMgt
     class ProgramUI
     {
         private KomodoContentRepo _contentRepo = new KomodoContentRepo();
-        private DeveloperTeam _teamContentRepo = new DeveloperTeam();
+        private DevTeamRepo _teamContentRepo = new DevTeamRepo();
         // Method that runs/starts the application
         public void Run()
         {
             SeedDeveloperList();
-            SeedDeveloperTeamList();
+            SeedDeveloperTeamLIst();
             Menu();
         }
 
